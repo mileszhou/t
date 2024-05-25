@@ -1,0 +1,101 @@
+Back to &rArr; [[Notes on 《桥牌自然叫牌法》]]
+
+<h2>Opening Bidding ww/ Balanced Hand</h2>
+*ww/ balanced hand andHCP in the range of
+::<span style="color: green">&ouml;:</span>16-18HCP&rArr; '''1NT''' or
+::<span style="color: green">&ouml;:</span>23-24HCP&rArr; '''2NT'''
+
+::<span style="color: green">&ouml;:</span>12-15HCP or 19-20HCP &rArr; open a minor suit @ level 1:
+::: &rArr; 1&diams; ww/ 4 &diams;s, or 
+::: &rArr; 1&clubs; otherwise (so in the worst cases(4-4-3-2 in suit ranking order), ww/ 2 &clubs;s)
+:::: &rArr; ...
+
+<h2>Response to 1NT Opening</h2>
+<h3>Response to NT ww/ Balanced Hands</h3>
+<h4>Strategy</h4>
+*Stay in NT ww/o a 4- or 5-major
+*Switch to a major ww/ a (6+)-major
+*Seek an 8-card major fit
+
+<h5>Stay in NT ww/o a 4- or 5-major</h5>
+* <span style="color: orange">&real;:</span> Pass ww/ 0-6RP
+* <span style="color: orange">&real;:</span> 2NT ww/ 7-8RP
+** <span style="color: green">&ouml;:</span> Pass ww/ 16HCP; or 3NT ww/ 17-18HCP (final)
+* <span style="color: orange">&real;:</span> 3NT ww/ 9-14RP (Game, final)
+* <span style="color: orange">&real;:</span> 6NT ww/ 17-18RP (Slam, final)
+* <span style="color: orange">&real;:</span> 7NT ww/ 21+RP (Grand Slam, final)
+
+* <span style="color: orange">&real;:</span> 4NT ww/ 15-16RP (slam tentative)
+** <span style="color: green">&ouml;:</span> Pass ww/16HCP
+** <span style="color: green">&ouml;:</span> 5&clubs; ww/ a 5-minor suit (Blackwood, and minor suit)
+*** <span style="color: orange">&real;:</span> Response to Blackwood 0-3;1-4;2 low(15RP); 2 high(16RP)
+**** <span style="color: green">&ouml;:</span> 6&clubs;/6&diams; 
+***** <span style="color: orange">&real;:</span> Pass ww/ 3-support
+***** <span style="color: orange">&real;:</span> 6NT ww/o 3-support
+** <span style="color: green">&ouml;:</span> AS-IF response to Blackwood: 0-3A's: 5&diams;;1-4A's: 5&hearts;;2A's: 5&spades;
+*** <span style="color: orange">&real;:</span> 5NT ww/ 2 missing A's; or
+*** <span style="color: orange">&real;:</span> 6NT ww/ 3+A's in total ww/o 4-major suits
+*** <span style="color: orange">&real;:</span> 6&hearts;/6&spades; ww/ a 4-major suits
+**** <span style="color: green">&ouml;:</span> Pass ww/ 4-major support
+**** <span style="color: green">&ouml;:</span> 6NT ww/o 4-major support
+
+* <span style="color: orange">&real;:</span> 5NT ww/ 19-20RP (Grand Slam tentative)
+** Similar to 4NT response with one level higher and opener's AS-IF response to Blackwood includes 6NT for 2A's @17-18HCP
+
+<h5><span style="color: red">Jacoby Transfer</span> (including minor transfer and strong 3-level response)</h5>
+ww/ 0-14RP
+* <u>Major Transfer</u>: <span style="color: orange">&real;:</span>2&diams; &rArr; <span style="color: green">&ouml;:</span>2&hearts; or <span style="color: orange">&real;:</span>2&hearts; &rArr; <span style="color: green">&ouml;:</span>2&spades;
+** <span style="color: orange">&real;:</span> Pass ww/ 0-6RP, stay low
+** <span style="color: orange">&real;:</span> If 6+major ww/ 7+RP:
+*** <span style="color: orange">&real;:</span> 3&hearts;/&spades; ww/ 7-8RP &rArr; 
+**** <span style="color: green">&ouml;:</span> Pass ww/ 16HCP, 
+**** <span style="color: green">&ouml;:</span> 4&hearts;/&spades; ww/ 17-18HCP
+*** <span style="color: orange">&real;:</span> 4&hearts;/&spades; ww/ 9-14RP
+** <span style="color: orange">&real;:</span> If 5-major ww/ 7+RP
+*** <span style="color: orange">&real;:</span> 2NT ww/ 7-8RP
+**** <span style="color: green">&ouml;:</span> @16HCP
+***** <span style="color: orange">&real;:</span> Pass ww/ 2&hearts/&spades;
+***** <span style="color: orange">&real;:</span> 3&hearts;/&spades; ww/ 3+ &hearts;/&spades;
+**** <span style="color: green">&ouml;:</span> @17-18HCP
+***** <span style="color: orange">&real;:</span> 3NT ww/ 2&hearts/&spades;
+***** <span style="color: orange">&real;:</span> 4&hearts;/&spades; ww/ 3+ &hearts;/&spades;
+*** <span style="color: orange">&real;:</span> 3NT ww/ 9-14RP
+**** <span style="color: green">&ouml;:</span> 4&hearts;/&spades; if 3+ &hearts;/&spades;
+* <u>Minor Transfer</u>: when 6+minar suit and 0-8RP <span style="color: orange">&real;:</span>2&spades; &rArr; <span style="color: green">&ouml;:</span>3&clubs;
+** <span style="color: orange">&real;:</span> Pass;
+** <span style="color: orange">&real;:</span> 3&diams; ww/ &clubs; long suit (no transfer).
+* <u>Strong 3-Minor</u>: <span style="color: orange">&real;:</span> 3&clubs;/&diams; ww/ 9-14RP and strong 6 &clubs;/&diams; suit
+** <span style="color: green">&ouml;:</span> 3NT ww/o 3-support or 16-17HCP
+** <span style="color: green">&ouml;:</span> 5&clubs;/&diams; ww/ 3-support & 18HCP
+* <u>Strong 6+Major</u> <span style="color: orange">&real;:</span> 3&spades;/&hearts; ww/ 9+RP and strong 6+major suit
+** <span style="color: green">&ouml;:</span> 4&spades;/&hearts; ww/ 4-support
+** <span style="color: green">&ouml;:</span> 3NT ww/o 4-support
+
+<h5><span style="color: red;">Stayman Convention</span> --Seek an 8-card major fit</h5>
+: only ww/  8+RP & one or two 4-majors
+* <span style="color: orange">&real;:</span> 2&clubs;
+* <span style="color: green">&ouml;:</span> 2&diams; ww/o 4&hearts;- or 4&spades;-suit
+** <span style="color: orange">&real;:</span> 3NT for 9-14HCP
+** <span style="color: orange">&real;:</span> 2NT for 7-8HCP
+*** <span style="color: green">&ouml;:</span> 3NT ww/ 17-18HCP; Pass ww/ 16HCP
+
+* <span style="color: green">&ouml;:</span> 2&hearts; ww/ 4&hearts;-suit (may also have a 4&spades;-suit)
+** <span style="color: orange">&real;:</span> a 4-4 &hearts; fit found ww/ 4&hearts;-suit (may also have a 4&spades;-suit, but ignored)
+*** <span style="color: orange">&real;:</span> 4&hearts; ww/ 9-14RP (final)
+*** <span style="color: orange">&real;:</span> 3&hearts; ww/ 8RP
+**** <span style="color: green">&ouml;:</span> 4&hearts; ww/ 17-18HCP; Pass ww/ 16HCP
+** <span style="color: orange">&real;:</span> no 4-4 &hearts; fit found; ww/o 4&hearts;-suit:
+*** <span style="color: orange">&real;:</span> 3NT ww/ 9-14HCP
+*** <span style="color: orange">&real;:</span> 2NT ww/ 8HCP
+**** <span style="color: green">&ouml;:</span> 3NT ww/ 16-17HCP; Pass ww/ 15HCP
+** <span style="color: orange">&real;:</span> but, Responder Ammendament: ww/ 4&spades;-suit (4-&spades;-fit implied ww/o 4-&hearts;)
+*** <span style="color: orange">&real;:</span> 3NT->4&spades; 2NT->/3&spades;
+* <span style="color: green">&ouml;:</span> Rebid: 2&spades; ww/o 4&hearts; and ww/ 4&spades;-suit
+** <span style="color: orange">&real;:</span> a 4-4 &spades; fit found ww/ 4&spades;-suit:
+*** <span style="color: orange">&real;:</span> 4&spades; ww/ 9-14RPs (final)
+*** <span style="color: orange">&real;:</span> 3&spades; ww/ 8RP
+**** <span style="color: green">&ouml;:</span> 4&spades; ww/ 17-18HCP; Pass ww/ 16HCP
+** <span style="color: orange">&real;:</span> no 4-4 &spades; fit found; ww/o 4&spades;-suit
+*** <span style="color: orange">&real;:</span> 3NT ww/ 9-14HCP
+*** <span style="color: orange">&real;:</span> 2NT ww/ 8HCP
+**** <span style="color: green">&ouml;:</span> 3NT ww/ 17-18HCP; Pass ww/ 16HCP

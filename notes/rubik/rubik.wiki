@@ -1,0 +1,47 @@
+== Representation of Rubik's Cube's configuration ==
+=== Representation of Rubik's Cube's cubes and their orientations ===
+
+The book uses RLUDFB notation to represent the move and configuration. I'll use an essentially same notation, but a little more systematic way of notation.
+
+I use X to represent R, and -X for L. -X is also noted as X'.
+
+Similarly, Y for U and Y' for D; and Z for F and Z' for B.
+
+This way, XYZ forms a right-hand coordinate system. 
+
+Each cubicle is represented by its coordinates (x, y, z), and x, y, or z is chosen from the set {-1, 0, 1} with the obvious meaning. The triplet (x, y, z) can then be viewed as a ternary number zyx, in the range of {-13, 13}. 
+
+Cubes/cubicles with no zero coordinates are corner cubes; those with 1 zero are edge cubes; and those with 2 zeros are the visible central cubes; and finally, that with 3 zeros is the visible center piece. Obviously, there 2^3=8 non-zero pieces (the corner cubes), 3*2^2=12 1-zero pieces (edge cubes) and 3*2=6 2-zero pieces (the edge cubes), and 1 all-zero piece (the invisible center cube).
+
+This cube coding is essentially the same as that in the book.
+
+
+::<code> corner1= ufl= (-1,  1,  1)=  11</code>
+::<code> corner2= urf= ( 1,  1,  1)=  13</code>
+::<code> corner3= ubr= ( 1,  1, -1)=  -5</code>
+::<code> corner4= ulb= (-1,  1, -1)=  -7</code>
+::<code> corner5= dbl= (-1, -1, -1)= -13</code>
+::<code> corner6= dlf= (-1, -1,  1)=   5</code>
+::<code> corner7= dfr= ( 1, -1,  1)=   7</code>
+::<code> corner8= drb= ( 1, -1, -1)= -11</code>
+
+
+::<code> edge1=  ub= ( 0,  1, -1)=  -6</code>
+::<code> edge2=  ur= ( 1,  1,  0)=   4</code>
+::<code> edge3=  uf= ( 0,  1,  1)=  12</code>
+::<code> edge4=  ul= (-1,  1,  0)=   2</code>
+::<code> edge5=  lb= (-1,  0, -1)= -10</code>
+::<code> edge6=  rb= ( 1, -1,  0)=  -2</code>
+::<code> edge7=  rf= ( 1,  0,  1)=  10</code>
+::<code> edge8=  lf= (-1,  0,  1)=   8</code>
+::<code> edge9=  db= ( 0, -1, -1)= -12</code>
+::<code> edge10= dr= ( 1,  0, -1)=  -8</code>
+::<code> edge11= df= ( 0, -1,  1)=   6</code>
+::<code> edge12= dl= (-1, -1,  0)=  -4</code>
+
+All other pieces doesn't essentially move, so they are not listed here.
+
+Under this coding, any rotation can be represented by a rotation matrix as we are doing in geometry.
+
+=== Representation of the orientation of the cubes ===
+To avoid any re-calculation of the orientation, I'll use the same orientation coding as in the book, except the cube number coding.

@@ -1,0 +1,362 @@
+<h2>Some definitions:</h2>
+;Major suit (major) and minor suit (minor)
+:&spades; and &hearts; are major (suit) and &diams; and &clubs; are minor (suit).
+;1-Suiter
+:Only 1 suit has at least 5 cards
+;2-Suiter
+:Exactly 2 suits have at least 4 cards
+;3-Suiter
+:4-4-4-1 pattern from longest to the shortest (not in suit rank order)
+;Balanced hand
+:At most one suit has less than 3 cards;
+:the only possibility is one of the three patterns: 4-3-3-3, 4-4-3-2 or 5-3-3-2 (the 5-suit in a minor suit).
+:5-3-3-2 can also be categorized as a one-suite, while applicable.
+
+<h2>Opening Bidding ww/ Balanced Hand</h2>
+*ww/ balanced hand andHCP in the range of
+::16-18HCP&rArr; '''1NT''' or
+::23-24HCP&rArr; '''2NT'''
+
+::12-15HCP or 19-20HCP &rArr; open a minor suit @ level 1:
+::: &rArr; 1&diams; ww/ 4 &diams;s, or 
+::: &rArr; 1&clubs; otherwise (so in the worst cases(4-4-3-2 in suit ranking order), ww/ 2 &clubs;s)
+:::: &rArr; ...
+
+<h2>Response to 1NT Opening</h2>
+<h3>Response to NT ww/ Balanced Hands</h3>
+*'''RP''': Re-evaluation of strength:
+** +1: ww/ 5-suit ww/ 2 honors (10 included, similar below);
+** +2: ww/ 5-suit ww/ 3 honors, or 6-card suit ww/ an Ace or King
+** +3: ww/ 6-suit ww/ 2 of top 3 honors (AK/AQ/KQ)
+<h4>Strategy</h4>
+*Stay in NT when ww/o a 4- or 5-major
+*Switch to a major when ww/ a (6+)-major
+*Seek an 8-card major fit
+
+<h5>Stay in NT when ww/o a 4- or 5-major</h5>
+* Pass ww/ 0-6RP
+* 2NT ww/ 7-8RP
+** &ouml;: Rebid Pass ww/ 16HCP; or 3NT ww/ 17-18HCP (final)
+* 3NT ww/ 9-14RP (Game, final)
+* 6NT ww/ 17-18RP (Slam, final)
+* 7NT ww/ 21+RP (Grand Slam, final)
+
+* 4NT ww/ 15-16RP (slam tentative)
+** &ouml;: Pass ww/16HCP
+** &ouml;: 5&clubs; ww/ a 5-minor suit (Blackwood, and minor suit)
+*** Responser: Response to Blackwood 0-3;1-4;2 low(15RP); 2 high(16RP)
+**** &ouml;: 6&clubs;/6&diams; 
+***** Responser: Pass ww/ 3-support
+***** Responser: 6NT ww/o 3-support
+** &ouml;: AS-IF response to Blackwood: 0-3A's: 5&diams;;1-4A's: 5&hearts;;2A's: 5&spades;
+*** Responser: 5NT ww/ 2 missing A's; or
+*** 6NT ww/ 3+A's in total when ww/o 4-major suits
+*** 6&hearts;/6&spades; ww/ a 4-major suits
+**** Pass ww/ 4-major support
+**** 6NT ww/o 4-major support
+
+* 5NT ww/ 19-20RP (Grand Slam tentative)
+** Similar to 4NT response with one level higher and opener's AS-IF response to Blackwood includes 6NT for 2A's @17-18HCP
+
+<h5><span style="color: red">Jacoby Transfer</span> (including minor transfer and strong 3-level response)</h5>
+ww/ 0-14RP
+* <u>Major Transfer</u>: 2&diams; &rArr; 2&hearts; or 2&hearts; &rArr; 2&spades;
+** &real;: Pass ww/ 0-6RP, stay low
+** &real;: If 6+major ww/ 7+RP:
+*** 3&hearts;/&spades; ww/ 7-8RP &rArr; 
+**** &ouml;: Pass ww/ 16HCP, 
+**** 4&hearts;/&spades; ww/ 17-18HCP
+*** 4&hearts;/&spades; ww/ 9-14RP
+** If 5-major ww/ 7+RP
+*** 2NT ww/ 7-8RP
+**** &ouml;: @16HCP
+***** Pass ww/ 2&hearts/&spades;
+***** 3&hearts;/&spades; ww/ 3+ &hearts;/&spades;
+**** &ouml;: @17-18HCP
+***** 3NT ww/ 2&hearts/&spades;
+***** 4&hearts;/&spades; ww/ 3+ &hearts;/&spades;
+*** 3NT ww/ 9-14RP
+**** &ouml;: 4&hearts;/&spades; if 3+ &hearts;/&spades;
+* <u>Minor Transfer</u>: when 6+minar suit and 0-8RP)2&spades; &rArr; 3&clubs;
+** &real;: Pass/3&diams;
+* <u>Strong 3-Minor</u>: 3&clubs;/&diams; ww/ 9-14RP and strong 6 &clubs;/&diams; suit)
+** &ouml;: 3NT ww/o 3-support or 16-17HCP
+** 5&clubs;/&diams; ww/ 3-support & 18HCP
+* <u>Strong 6+Major</u> 3&spades;/&hearts; ww/ 9+RP and strong 6+major suit
+** 4&spades;/&hearts; ww/ 4-support
+** 3NT ww/o 4-support
+
+<h5><span style="color: red;">Stayman Convention</span> --Seek an 8-card major fit</h5>
+* &real;: 2&clubs; when 
+: ww/  8+RP & one or two 4-majors
+* &ouml;: rebid 2&diams; ww/o 4&hearts;- or 4&spades;-suit
+** 3NT for 9-14HCP
+** 2NT for 7-8HCP
+*** 3NT ww/ 17-18HCP; Pass ww/ 16HCP
+
+* &ouml;: rebid: 2&hearts; ww/ 4&hearts;-suit (may also have a 4&spades;-suit)
+** &real;: a 4-4 &hearts; fit found ww/ 4&hearts;-suit (may also have a 4&spades;-suit, but ignored)
+*** 4&hearts; ww/ 9-14RP (final)
+*** 3&hearts; ww/ 8RP
+**** &ouml;: 4&hearts; ww/ 17-18HCP; Pass ww/ 16HCP
+** &real;: no 4-4 &hearts; fit found; ww/o 4&hearts;-suit:
+*** 3NT ww/ 9-14HCP
+*** 2NT ww/ 8HCP
+**** &ouml;: 3NT ww/ 16-17HCP; Pass ww/ 15HCP
+** (but Responder Ammendament): ww/ 4&spades;-suit (4-&spades;-fit implied ww/o 4-&hearts;)
+*** 3NT->4&spades; 2NT->/3&spades;
+* &ouml;: Rebid: 2&spades; ww/o 4&hearts; and ww/ 4&spades;-suit
+** &real;: a 4-4 &spades; fit found ww/ 4&spades;-suit:
+*** 4&spades; ww/ 9-14RPs (final)
+*** 3&spades; ww/ 8RP
+**** &ouml;: 4&spades; ww/ 17-18HCP; Pass ww/ 16HCP
+** &real;: no 4-4 &spades; fit found; ww/o 4&spades;-suit
+*** 3NT ww/ 9-14HCP
+*** 2NT ww/ 8HCP
+**** 3NT ww/ 17-18HCP; Pass ww/ 16HCP
+
+<h2>1 Major (1&hearts;/&spades;) Opening</h2>
+* Requirement for a 1&hearts;/&spades; opening: 
+** 5+ &hearts;s/&spades;s
+** 12-20HCP
+** Excluding:
+*** 8 sure winning tricks
+*** 7 sure winning tricks ww/ 16+HCP
+*** 8+major suit ww/ 11-15HCP
+*** 6+major suit ww/ 10-HCP
+
+<h3>Response to 1 Major; opening</h3>
+; Support Points (SP)
+: Extra-points added to theHCP to to represent the supporting pattern of a hand <u>when a better than 8-card fit is found.</u>
+* Calculation ofSP
+** +5 for a void side suit
+** +3 for a singlton suit (can be repeatedly counted)
+** +1 for a doubleton suit (can be repeatedly counted)
+
+<h4>Limited Response</h4>
+* Pass ww/ 0-5HCP
+* Non-supportive response:
+** 1NT ww/ 6-10HCP ww/o 3&hearts;/&spades; support
+* Supportive response
+** Raise: 2&hearts;/2&spades; 6-10HCP ww/ 3+ support
+** Jump Raise: 3&hearts;/3&spades; 11-12HCP ww/ 4+ support
+** Raise to Game: 4&hearts;/4&spades; 10-HCP ww/ 4+ support
+** 2NT 13-15HCP ww/ 3+&hearts; support ww/ balanced hand
+** 3NT 16-18HCP ww/ 3+&hearts; support ww/ balanced hand
+** Splint (double jump to a new suit): 3&spades;/4&clubs;/4&diams;/4&hearts; ww/ 11-15S, and singleton or void in the bid suit
+
+<h4>Unlimited Response (forcing)</h4>
+* 1 over 1: 1&spades; (over 1&hearts;) ww/ 6+HCP and 4+ &spades;s ww/o 3+&hearts; support
+* 2 over 1: 2&clubs;/2&diams;/2&hearts;(over 1&spades;) ww/ 11+HCP and 4+ &clubs;s/4+ &diams;s/5+ &hearts;s
+* Jump New: 2&spades;(over 1&hearts;) or 3&clubs;/3&diams;(over 1&hearts;/1&spades;) ww/ 16+HCP ww/ 6+suit
+
+<h4>Weak and Strong Rebid/Re-Response</h4>
+* In general, the following re-bid/re-response is weak:
+** Raise to responder's suit
+** Back the opening suit
+
+*In general, the following re-bid/re-response is strong (and forcing):
+** New suit above level 1
+** Cue bid
+
+<h4>Re-Bid on Raise</h4>
+<h5>Opener w/ 14-HCP</h5>
+* Pass; no Game
+
+<h5>Opener w/ about 15HCP</h5>
+* Inviting with 3&hearts;/3&spades;
+** Pass ww/ <= 8SP
+** 4&hearts;/4&spades; ww/ 9-10SP
+
+* Cue-bid after Raise for long/short suit
+** On 2&hearts; over 1&hearts; raise:
+*** Long suit support seeking: 2NT(&rarr;&spades;)/3&clubs;/3&diams;
+*** Short suit cue bid preparation: 2&spades;
+**** 2NT (mandatory)
+***** 3&clubs;/3&diams;/3&hearts;&rarr;&spades;   
+** On 2&spades; over 1&spades; raise:
+*** Long suit support seeking: 3&clubs;/3&diams;/3&hearts;
+*** Short suit cue bid preparation: 2NT
+**** 3&clubs; (mandatory)
+***** 3&diams;/3&hearts;/3&spades;(&rarr;&clubs;)
+
+<h5>Opener w/ 16-18HCP</h5>
+* Opener uses tentative bidding to seek key card (usually missing Q/K).
+** &real;: moves to another suit means support in that suit (sounds long suit support seeking)
+*** &ouml;: decides whether go Game. 
+** &real;: jumps to a new suit means highSP (9-10SP) with honor card in that suit;
+*** &ouml;: decides whether go Game. 
+** &real;: moves back to the opening suit means lowSP (6-8SP);
+*** &ouml;: Pass.
+
+<h5>Opener w/ 19-20HCP</h5>
+* Jump to Game directly (4&hearts;/4&spades;).
+
+<h4>Rebid on Jump Raise</h4>
+Jump Raise (3&hearts;/3&spades; over 1&hearts;/1&spades;) is a highly limited (11-12SP) response. 
+<h5>Opener w/ 13-HCP</h5>
+* Opener w/ a balanced hand:
+** Usually Pass.
+* Opener w/ a non-balanced hand:
+** Usually can raise to Game (4&hearts;/&spades;).
+
+<h5>Opener w/ 14+HCP</h5>
+Game is sure, but Slam in doubt. If the joint cards are well matched, Slam is possible. So cue bids are usually used to seek a good Slam contract.
+
+<h4>Rebid on Jump to Game response</h4>
+Continue rebid only when Slam is visible. However, since responder has 10-HCP, Slam tentative is only used for very strong opener.
+
+<h4> Rebid on Splint</h4>
+Whether go Slam mostly depends on hand pattern and match. Both parties can use cue bid to find matches.
+
+<h4> Rebid on 1 over 1 response</h4>
+The only possibility of 1 over 1 is 1&spades; over 1&hearts;, which is an unlimited response, and thus a forcing bid.
+<h5> Opener w/ 15-HCP (Weak Rebidding)</h5>
+* 2&spades; ww/ 4-support;
+* Rebid opening suit ww/ 6+suit;
+* Rebid 4+minor @ level 2; (also applies to 16-17HCP)
+* 1NT catch all other cases.
+<h6>Re-Response to Weak Rebidding</h6>
+* No Game ww/ 9-HCP/SP
+* Go Game ww/ 13+HCP/SP
+* Further seek Game ww/ 10-12SP
+<h5>Opener w/ 16-18HCP (Strong Rebid)</h5>
+* Jump Raise (3&spades;) ww/ 4-support
+* Jump opening suit (3&hearts;) ww/ 6+ &hearts;
+* 2-minor over 1 (2&clubs;/&diams;) ww/ 4+ minor suit and 16-17HCP
+* 2NT: catch all other cases
+<h6>Re-Response to Strong Rebid</h6>
+* Seeking Game ww/ 8-SP
+* Go Game ww/ 9+SP
+* Seeking Slam ww/ 14+SP
+<h5>Opener w/ 19-20HCP</h5>
+* Go Game
+
+<h4>Rebid on 2 over 1 Response</h4>
+<h5>Weak Rebid ww/ 13-HCP/SP</h5>
+* Raise response (2&spades;) ww/ 3-support;
+* New suit @ level 2 (below opening suit);
+* Rebid opening suit @ level 2.
+<h6>Re-Response to Low End Rebid</h6>
+Low End Rebid is a limited bid. Responder shall make decision on the contract.
+* Weak response ww/ 11-12HCP/SP
+** &real;: Response to either opening suit or 2-over-1 suit;
+* Strong response ww/ 13+HCP
+** Jump or New Suit until Game
+<h5>Strong Rebid ww/ 14+HCP/SP</h5>
+* Jump Raise (responder's) major suit ww/ 4+support and about 14SP;
+* Jump Raise opening suit ww/ 6-opening suit;
+* New Suit ww/ 4-suit
+* Jump New Suit ww/ 5+suit
+* Raise (responder's) minor suit ww/ 4+ support
+* 2NT catch all other cases.
+<h6>Re-Response to Strong Rebid</h6>
+* Game is sure.
+** Go Game ww/ 11-12SP
+** Slam seeking ww/ 13+SP 
+
+<h4>Rebid on NT response</h4>
+<h5>Rebid on 1NT response</h5>
+* Weak Rebid ww/ about 13HCP
+** Rebid opening suit ww/ 6-suit
+** Pass otherwise
+<h5>Rebid on 2NT response</h5>
+* Game is sure. Seeking Slam ww/ highHCP
+<h5>Rebid on 3NT response</h5>
+* 3NT response is not a stop bid; on the contrary, it's forcing:
+** &ouml;: 4-major is a stop
+** 4NT: Blackwood
+
+<h4>Rebid on Jump New Suit response</h4>
+Jump New Suit indicates 16HCP and 6+ strong suit (5 winners).
+* &ouml;: ww/ 1+ honor card in the New Suit: 
+** Raise the suit ww/ 12-13HCP 
+** Cue bid a new suit ww/ 14+HCP
+* &ouml;: ww/o honor cards in the New Suit:
+** Re-bid opening suit ww/ 6+suit;
+** Re-bid NT at the lowest level.
+*** &real;: Re-response with the 6+ New Suit
+*** &real;: 3NT if no Slam potential;
+** Cue bid when Slam is at reach;
+*** &real;: Cue bid control/singleton/void.
+** Cue bid new suit ww/ 14+HCP (Seeking Slam)
+
+
+
+<h2>1&clubs; Opening</h2>
+*Requirements for 1&clubs; opening:
+** 12-20HCP
+** ww/o 5+major-suits
+** ww/o 4&diams; suit
+** doesn't fit in any NT opening
+** - in other words, it's a catch-all opening
+
+<h3>Response to 1&clubs; Opening</h3>
+Requires ww/ 6+HCP
+<h4>ww/ 5&clubs; support</h4>
+* ww/ 6-9SP &rArr; 2&clubs;
+* ww/ 10-12SP &rArr; 3&clubs; 
+* ww/ 13+SP &rArr; bid longest suit then support &clubs; at the next bid
+
+<h4>ww/ balanced hand ww/o 4-major suit -- also applies to 1&diams;, 1&hearts; and 1&spades; opening</h4> 
+* ww/ 6-10HCP &rArr; 1NT
+The following requires stopper in unbid suits.
+* ww/ 13-15HCP &rArr; 2NT.
+* ww/ 16-18HCP &rArr; 3NT
+* ww/ 11-12HCP &rArr; bid the longest suit then 2NT at the next bid.
+
+<h4>ww/ a single long (5+) suit</h4>
+* Respond with that suit at level 1.
+<h4>ww/ 2 long 5-suits</h4>
+* Respond with the higher ranking suit at level 1.
+<h4>ww/o 5-suit</h4>
+* Respond with the suit closest to opening suit at level 1.
+
+<h4>ww/ one longest suit</h4>
+* Response with that suit at level 1
+<h4>ww/ two equal-length suits</h4>
+* Response with the higher ranking suit at level 1
+<h4>ww/ 2 or 3 4-card suits:</h4>
+* response with the suit closest to the opening (also applies to &diams opening).
+
+<h2>1&diams; Opening</h2>
+Requirements:
+* 12-20 HCP
+* ww/o 5-major suits
+* 4+&diam;-suit
+
+<h3>Response to 1&diams; opening</h3>
+Almost identical to that to 1&clubs; opening with the following exceptions:
+* 1NT no longer guarantees balanced hand (when ww/ 5&clubs but ww/o 11+HCP).
+
+<h2>Strong 2&clubs;</h2>
+:ww/ 21+HCP, or 19-20HCP ww/ 6/7-suit, or 22HCP ww/ minor long suit, or ww/ 10 or almost 10 winning tricks
+* Response to 2&clubs;:
+**&rArr; 2&diams; ww/ 0-6HCP unless ww/ a 6+ suit
+***Re-bit ww/ balanced hands
+:::&rArr; 2NT for 22-24HCP
+:::&rArr; 3NT for 27-28HCP
+
+<h2>Pre-emptive opening</h2>
+* 2/3-Law:- Down 3 or 2 when vulnerable;
+* ww/HCP: 6-10 strictly; no excuse!
+
+<h3>Preemptive Weak 2</h3>
+* 2&hearts;/&spades; -- ww/ a 6-suit +:
+::2/3-Law translates to 5 winning suits or 6 when vulnerable
+::ww/o side 5-suit, or 4-major-suit, or voids -- don't quite understand!!
+
+<h3>Preemptive Weak 3</h3>
+* 3&clubs;/&diams;/&hearts;/&spades; -- ww/ a 7-suit +:
+::2/3-Law translates to 6 winning suits or 7 when vulnerable
+::Voids are okay
+
+<h3>Preemptive Weak 4</h3>
+* 4&clubs;/&diams;/&hearts;/&spades; -- ww/ a (8+)-suit, or 7-suit + a 4 side suit +:
+::2/3-Low translates to 7 winning suits or 8 when vulnerable
+
+<h2>Jump Shift Response</h2>
+; Jump Shift
+: Jump to a side suit with one unnecessary level higher
+
+* Response with a Jump shift when ww/ 17SP or more

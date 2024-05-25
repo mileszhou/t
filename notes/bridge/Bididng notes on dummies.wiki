@@ -1,0 +1,164 @@
+<h2>Some definitions:</h2>
+;Major suit (major) and minor suit (minor)
+:&spades; and &hearts; are major (suit) and &diams; and &clubs; are minor (suit).
+;1-Suiter
+:Only 1 suit has at least 5 cards
+;2-Suiter
+:Exactly 2 suits have at least 4 cards
+;3-Suiter
+:4-4-4-1 pattern from longest to the shortest (not in suit rank order)
+;Balanced hand
+:At most one suit has less than 3 cards;
+:the only possibility is one of the three patterns: 4-3-3-3, 4-4-3-2 or 5-3-3-2 (the 5-suit in a minor suit).
+:5-3-3-2 can also be categorized as a one-suite, while applicable.
+
+<h2>Opening Bidding w/ Balanced Hand</h2>
+*w/ balanced hand and HCP in the range of
+::15-17 HCP&rArr; '''1NT''' or
+::20-21 HCP&rArr; '''2NT''' or
+::25-26 HCP&rArr; '''3NT'''
+
+::12-14 HCP or 18-19HCP:- open a minor suit @ level 1:
+::: &rArr; 1&diams; w/ 4 &diams;s, or 
+::: &rArr; 1&clubs; otherwise (so in the worst cases(x-x-3-2 in suit ranking order), w/ 2 &clubs;s)
+
+<h2>Response to 1NT Opening</h2>
+<h3>Response to NT w/ Balanced Hands</h3>
+*'''RP''': Re-evaluation of strength:
+** +1: w/ 5-suit w/ 2 honors (10 included, similar below);
+** +2: w/ 5-suit w/ 3 honors, or an Ace or King
+** +3: w/ 6-suit w/ 2 of top 3 honors (AK/AQ/KQ)
+<h4>Strategy</h4>
+*Stay in NT when w/o a 4- or 5-major
+*Switch to a major when w/ a (6+)-major
+*Seek an 8-card major fit
+
+<h5>Stay in NT when w/o a 4- or 5-major</h5>
+* Pass w/ 0-8RP
+* 2NT w/ 9RP
+** Rebid(opener): Pass w/ 15HCP; or 3NT w/ 16-17HCP (final)
+* 3NT w/ 10-15RP (final)
+
+<h5>Switch to a major when w/ a (6+)-major - <ins>Jacoby Transfer</ins></h5>
+w/ 0-15RP
+* Response:
+** 2&diams; &rArr; 2&hearts; or 2&hearts; &rArr; 2&spades;
+* Re-response:
+** Pass w/ 0-8RP, stay low
+** 3&hearts;/&spades; w/ 9RP &rArr; Pass w 15HCP, or 4&hearts;/&spades;
+** 4&hearts;/&spades; w/ 10-15RP
+
+<h5>Seek an 8-card major fit - <ins>Stayman convention</ins></h5>
+* Response: &rArr;2&clubs; when 
+: w/ one or two 4-majors and
+: w/ 9-15 RP
+*<u>Rebid</u>: 2&diams; w/o 4&hearts;- or 4&spades;-suit
+** 3NT for 10-15 HCPs
+** 2NT for 9 HCPs
+*** Go Game(3NT) w/ 16-17 HCP; Pass w/ 15 HCPs 
+
+*<u>Rebid</u>: 2&hearts; w/ 4&hearts;-suit (may also have a 4&spades;-suit)
+** ''Responder'': a 4-4 &hearts; fit found w/ 4&heats;-suit (may also have a 4&spades;-suit, but ignored)
+*** 4&hearts; w/ 10-15 RPs (final)
+*** 3&hearts; w/ 9 RPs
+**** Re-Rebid: Go Game(4&hearts;) w/ 16-17 HCP; Pass w/ 15 HCPs
+** ''Responder'': no 4-4 &hearts; fit found; w/o 4&hearts;-suit
+*** 3NT w/ 10-15 HCPs
+*** 2NT w/ 9 HCPs
+**** Go Game(3NT) w/ 16-17 HCP; Pass w/ 15 HCPs
+** but, <ins>Bidder</ins>: w/ 4&spades;-suit (4-&spades;-fit found)
+*** Ammendament: 3NT->4&spades; 2NT->/3&spades;
+*<u>Rebid</u>: 2&spades; w/ 4&patterns;-suit
+** ''Responder'': a 4-4 &spades; fit found w/ 4&spades;-suit
+*** 4&spades; w/ 10-15 RPs (final)
+*** 3&spades; w/ 9 RPs
+**** Re-Rebid: Go Game(4&spades;) w/ 16-17 HCP; Pass w/ 15 HCPs
+** ''Responder'': no 4-4 &spades; fit found; w/o 4&spades;-suit
+*** 3NT w/ 10-15 HCPs
+*** 2NT w/ 9 HCPs
+**** Go Game(3NT) w/ 16-17 HCP; Pass w/ 15 HCPs
+
+<h2>1&hearts; Opening</h2>
+* Requirement for a 1&hearts; opening: 
+** 5+ &hearts;s
+** 12-20 HCPs
+
+
+<h3>Response to 1&hearts; opening</h3>
+; Support Points
+: Extra-points added to the HCP to to represent the supporting pattern of a hand <u>when a better than 8-card fit is found.</u>
+* Calculation of SP
+** +5 for a void side suit
+** +3 for a singlton suit (can be repeatedly counted)
+** +1 for a doubleton suit (can be repeatedly counted)
+* Three situations:
+*# w/ less than 3 &hearts;
+*# w/ exact 3 &hearts;
+*# w/ more than 3 &hearts;
+
+
+<!-- Start of the section in work --> 
+
+<h4>Hands w/ fewer than 3 &hearts;</h4>
+* <u>Responder w/ 0-5 HCPs</u>
+** Pass
+* <u>Responder with 4+&hearts;</u> even with higher HCPs
+** 1&spades; w/ 4&spades; otherwise
+* <u>Responder w/ 6-10 HCPs</u>
+** 1NT w/o 4&spades; -- catch all response
+* <u>Responder w/ balanced hand</u>
+** 2NT for 13-15 HCPs
+** 3NT for 16-18 HCPs
+
+<h4>Hands w/ exactly 3 &hearts;</h4>
+* Pass w/ 0-5 SPs
+* 2&hearts; w/ 6-10 SPs 
+* longest side suit &rArr; 3&hearts; w/ 11-12 SPs 
+* longest side suit &rArr; 4&hearts; w/ 13-16 SPs 
+
+<h4>Hands w/ 4 &hearts;s</h4>
+* Pass w/ 0-5 SPs
+* 2&hearts; w/ 6-9 SPs
+* 3&hearts; w/ 10-12 SPs
+** <ins>Rebid<//ins> 
+*** Pass w/ 12-13 HCPs or 4&hearts; w/ 14-16 HCPs
+* another long suit &rArr; 4&hearts; w/ 13-16 SPs
+
+<h4>Hands w/ 5+&hearts;</h4>
+* Freak weak 4&hearts; w/ 7 HCPs 10-11 cards in &hearts and another suit</h4>
+* w/ 2 5-suits & 11 HCPs &rArr; respond with the higher suit
+* w/ 2-3 4-suits &rArr;, respond with the lowest ranking suit first
+
+
+<!-- End of the section in work --> 
+
+<h2>Strong 2&clubs;</h2>
+:w/ 21+HCP, or 19-20HCP w/ 6/7-suit, or 22HCP w/ minor long suit, or w/ 10 or almost 10 winning tricks
+* Response to 2&clubs;:
+**&rArr; 2&dams; w/ 0-6HCPs unless w/ a 6+ suit
+***Re-bit w/ balanced hands
+:::&rArr; 2NT for 22-24HCPs
+:::&rArr; 3NT for 27-28HCPs
+
+<h2>Pre-emptive opening</h2>
+* 2/3-Law:- Down 3 or 2 when vulnerable;
+* w/ HCP: 6-10 strictly; no excuse!
+
+<h3>Preemptive Weak 2</h3>
+* 2&hearts;/&spades; -- w/ a 6-suit +:
+::2/3-Law translates to 5 winning suits or 6 when vulnerable
+::w/o side 5-suit, or 4-major-suit, or voids -- don't quite understand!!
+
+<h3>Preemptive Weak 3</h3>
+* 3&clubs;/&diams;/&hearts;/&spades; -- w/ a 7-suit +:
+::2/3-Law translates to 6 winning suits or 7 when vulnerable
+::Voids are okay
+
+<h3>Preemptive Weak 4</h3>
+* 4&clubs;/&diams;/&hearts;/&spades; -- w/ a (8+)-suit, or 7-suit + a 4 side suit +:
+::2/3-Low translates to 7 winning suits or 8 when vulnerable
+
+<h2>Jump Shift Response</h2>
+; Jump Shift
+: Jump to a side suit with one unnecessary level higher
+* Response with a Jump shift when w/ 17 SP or more

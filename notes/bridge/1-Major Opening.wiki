@@ -1,0 +1,162 @@
+Back to &rArr; [[Notes on 《桥牌自然叫牌法》]]
+<h2>1-Major (1&hearts;/&spades;) Opening</h2>
+* Indication of a 1&hearts;/&spades; opening: 
+** <span style="color: green">&ouml;:</span> 5+ &hearts;s/&spades;s
+** <span style="color: green">&ouml;:</span> 12-20HCP
+** Excluding:
+*** 8 sure winning tricks
+*** 7 sure winning tricks ww/ 16+HCP
+*** 8+major suit ww/ 11-15HCP
+*** 6+major suit ww/ 10-HCP
+
+<h2>Response to 1 Major; opening</h2>
+
+;Limited Response
+:* <span style="color: orange">&real;:</span> Pass ww/ 0-5HCP
+:* Supportive response
+:** <span style="color: orange">&real;:</span> Raise: 2&hearts;/2&spades; 6-10HCP ww/ 3+ support [[#Rebid on Raise|&rArr; Rebid]]
+:** <span style="color: orange">&real;:</span> Jump Raise: 3&hearts;/3&spades; 11-12HCP ww/ 4+ support [[#Rebid on Jump Raise|&rArr; Rebid]]
+:** <span style="color: orange">&real;:</span> Raise to Game: 4&hearts;/4&spades; 10-HCP ww/ 4+ support
+:** <span style="color: orange">&real;:</span> 2NT 13-15HCP ww/ 3+&hearts; support ww/ balanced hand
+:** <span style="color: orange">&real;:</span> 3NT 16-18HCP ww/ 3+&hearts; support ww/ balanced hand
+:** <span style="color: orange">&real;:</span> Splint (double jump shift): [[#Rebid on Jump Shift response|&rArr; Rebid]]
+::: <span style="color: green">&ouml;:</span> --3&spades;/4&clubs;/4&diams;/4&hearts; ww/ 11-15S, and singleton or void in the bid suit 
+:* Non-supportive response:
+:** <span style="color: orange">&real;:</span> 1NT ww/ 6-10HCP ww/o 3&hearts;/&spades; support [[#Rebid on NT response|&rArr; Rebid]]
+:** <span style="color: orange">&real;:</span> 2 over 1 ww/ 11+SP (May have 8-fit trump, just not showing) [[#Rebid on 2 over 1 Response|&rArr; Rebid]]
+
+;Unlimited Response (forcing)
+:* <span style="color: orange">&real;:</span> 1 over 1: 1&spades; (over 1&hearts;) ww/ 6+HCP and 4+ &spades;s ww/o 3+&hearts; support
+:* <span style="color: orange">&real;:</span> 2 over 1: 2&clubs;/2&diams;/2&hearts;(over 1&spades;) ww/ 11+HCP and 4+ &clubs;s/4+ &diams;s/5+ &hearts;s
+:* <span style="color: orange">&real;:</span> Jump Shift: 2&spades;(over 1&hearts;) or 3&clubs;/3&diams;(over 1&hearts;/1&spades;) ww/ 16+HCP ww/ 6+suit
+
+;Weak response
+:* <span style="color: orange">&real;:</span> Raise to responder's suit
+:* <span style="color: orange">&real;:</span> Back the opening suit
+
+;Strong response (and forcing):
+:* <span style="color: orange">&real;:</span> New suit above level 1
+:* <span style="color: orange">&real;:</span> Cue bid
+
+<h2>Rebid on Raise</h2>
+<h3>Opener w/ 14-HCP</h3>
+* <span style="color: green">&ouml;:</span> Pass; no Game
+
+<h3>Opener w/ about 15HCP</h3>
+* <span style="color: green">&ouml;:</span> Inviting with 3&hearts;/3&spades;
+** <span style="color: orange">&real;:</span> Pass ww/ <= 8SP
+** <span style="color: orange">&real;:</span> 4&hearts;/4&spades; ww/ 9-10SP
+
+* Cue-bid after Raise for long/short suit
+** On 2&hearts; over 1&hearts; raise:
+*** <span style="color: green">&ouml;:</span> Long suit support seeking: 2NT(&rarr;&spades;)/3&clubs;/3&diams;
+*** <span style="color: green">&ouml;:</span> Short suit cue bid preparation: 2&spades;
+**** <span style="color: orange">&real;:</span> 2NT (mandatory)
+***** <span style="color: green">&ouml;:</span> 3&clubs;/3&diams;/3&hearts;&rarr;&spades;   
+** On 2&spades; over 1&spades; raise:
+*** <span style="color: green">&ouml;:</span> Long suit support seeking: 3&clubs;/3&diams;/3&hearts;
+*** <span style="color: green">&ouml;:</span> Short suit cue bid preparation: 2NT
+**** <span style="color: orange">&real;:</span> 3&clubs; (mandatory)
+***** <span style="color: green">&ouml;:</span> 3&diams;/3&hearts;/3&spades;(&rarr;&clubs;)
+** <span style="color: orange">&real;:</span> Decide whether to go Game
+
+<h3>Opener w/ 16-18HCP</h3>
+* Opener uses tentative bidding to seek key card (usually missing Q/K).
+** <span style="color: green">&ouml;:</span> moves to another suit means support in that suit (sounds long suit support seeking)
+*** <span style="color: orange">&real;:</span> decides whether go Game. 
+** <span style="color: green">&ouml;:</span> jumps shift means highSP (9-10SP) with honor card in that suit;
+*** <span style="color: orange">&real;:</span> decides whether go Game. 
+** <span style="color: green">&ouml;:</span> moves back to the opening suit means lowSP (6-8SP);
+*** <span style="color: orange">&real;:</span> Pass.
+
+<h3>Opener w/ 19-20HCP</h3>
+* <span style="color: green">&ouml;:</span> Jump to Game directly (4&hearts;/4&spades;).
+
+<h2>Rebid on Jump Raise</h2>
+Jump Raise (3&hearts;/3&spades; over 1&hearts;/1&spades;) is a highly limited (11-12SP) response. 
+<h3>Opener w/ 13-HCP</h3>
+* <span style="color: green">&ouml;:</span> Opener w/ a balanced hand:
+** <span style="color: orange">&real;:</span> Usually Pass.
+* <span style="color: green">&ouml;:</span> Opener w/ a non-balanced hand:
+** <span style="color: orange">&real;:</span> Usually can raise to Game (4&hearts;/&spades;).
+
+<h3>Opener w/ 14+HCP</h3>
+<span style="color: green">&ouml;:</span> Game is sure, but Slam in doubt. If the joint cards are well matched, Slam is possible. So cue bids are usually used to seek a good Slam contract.
+
+<h2>Rebid on Jump to Game response</h2>
+Continue rebid only when Slam is visible. However, since responder has 10-HCP, Slam tentative is only used for very strong opener.
+
+<h2> Rebid on Splint</h2>
+<span style="color: green">&ouml;:</span> Whether go Slam mostly depends on hand pattern and match. Both parties can use cue bid to find matches.
+
+<h2> Rebid on 1 over 1 response</h2>
+The only possibility of 1 over 1 is 1&spades; over 1&hearts;, which is an unlimited response, and thus a forcing bid.
+<h3> Opener w/ 15-HCP (Weak Rebidding)</h3>
+* <span style="color: green">&ouml;:</span> 2&spades; ww/ 4-support;
+* <span style="color: green">&ouml;:</span> Rebid opening suit ww/ 6+suit;
+* <span style="color: green">&ouml;:</span> Rebid 4+minor @ level 2; (also applies to 16-17HCP)
+* <span style="color: green">&ouml;:</span> 1NT catch all other cases.
+<h4>Re-Response to Weak Rebidding</h4>
+* <span style="color: orange">&real;:</span> No Game ww/ 9-HCP/SP
+* <span style="color: orange">&real;:</span> Go Game ww/ 13+HCP/SP
+* <span style="color: orange">&real;:</span> Further seek Game ww/ 10-12SP
+<h3>Opener w/ 16-18HCP (Strong Rebid)</h3>
+* <span style="color: green">&ouml;:</span> Jump Raise (3&spades;) ww/ 4-support
+* <span style="color: green">&ouml;:</span> Jump opening suit (3&hearts;) ww/ 6+ &hearts;
+* <span style="color: green">&ouml;:</span> 2-minor over 1 (2&clubs;/&diams;) ww/ 4+ minor suit and 16-17HCP
+* <span style="color: green">&ouml;:</span> 2NT: catch all other cases
+<h4>Re-Response to Strong Rebid</h4>
+* <span style="color: orange">&real;:</span> Seeking Game ww/ 8-SP
+* <span style="color: orange">&real;:</span> Go Game ww/ 9+SP
+* <span style="color: orange">&real;:</span> Seeking Slam ww/ 14+SP
+<h5>Opener w/ 19-20HCP</h5>
+* <span style="color: green">&ouml;:</span> Go Game
+
+<h2>Rebid on 2 over 1 Response</h2>
+<h3>Weak Rebid ww/ 13-HCP/SP</h3>
+* <span style="color: green">&ouml;:</span> Raise response (2&spades;) ww/ 3-support;
+* <span style="color: green">&ouml;:</span> New suit @ level 2 (below opening suit);
+* <span style="color: green">&ouml;:</span> Rebid opening suit @ level 2.
+<h4>Re-Response to Low End Rebid</h4>
+Weak Rebid is a limited bid. Responder shall make decision on the contract.
+* Weak response ww/ 11-12HCP/SP
+** <span style="color: orange">&real;:</span> Response to either opening suit or 2-over-1 suit;
+* Strong response ww/ 13+HCP
+** <span style="color: orange">&real;:</span> Jump or New Suit until Game
+<h3>Strong Rebid ww/ 14+HCP/SP</h3>
+* <span style="color: green">&ouml;:</span> Jump Raise (responder's) major suit ww/ 4+support and about 14SP;
+* <span style="color: green">&ouml;:</span> Jump Raise opening suit ww/ 6-opening suit;
+* <span style="color: green">&ouml;:</span> New Suit ww/ 4-suit
+* <span style="color: green">&ouml;:</span> Jump Shift ww/ 5+suit
+* <span style="color: green">&ouml;:</span> Raise (responder's) minor suit ww/ 4+ support
+* <span style="color: green">&ouml;:</span> 2NT catch all other cases.
+<h4>Re-Response to Strong Rebid</h4>
+* Game is sure.
+** <span style="color: orange">&real;:</span> Go Game ww/ 11-12SP
+** <span style="color: orange">&real;:</span> Slam seeking ww/ 13+SP 
+
+<h2>Rebid on NT response</h2>
+<h3>Rebid on 1NT response</h3>
+* Weak Rebid ww/ about 13HCP
+** <span style="color: green">&ouml;:</span> Rebid opening suit ww/ 6-suit
+** <span style="color: green">&ouml;:</span> Pass otherwise
+<h3>Rebid on 2NT response</h3>
+* <span style="color: green">&ouml;:</span> Game is sure. Seeking Slam ww/ highHCP
+<h3>Rebid on 3NT response</h3>
+* 3NT response is not a stop bid; on the contrary, it's forcing:
+** <span style="color: green">&ouml;:</span> 4-major is a stop
+** <span style="color: green">&ouml;:</span> 4NT: Blackwood
+
+<h2>Rebid on Jump Shift Suit response</h2>
+Jump Shift indicates 16HCP and 6+ strong suit (5 winners).
+* <span style="color: green">&ouml;:</span> ww/ 1+ honor card in the New Suit: 
+** <span style="color: orange">&real;:</span> Raise the suit ww/ 12-13HCP 
+** <span style="color: orange">&real;:</span> Cue bid a new suit ww/ 14+HCP
+* <span style="color: green">&ouml;:</span> ww/o honor cards in the New Suit:
+** <span style="color: orange">&real;:</span> Re-bid opening suit ww/ 6+suit;
+** <span style="color: orange">&real;:</span> Re-bid NT at the lowest level.
+*** <span style="color: green">&ouml;:</span> Re-response with the 6+ New Suit
+*** <span style="color: green">&ouml;:</span> 3NT if no Slam potential;
+** <span style="color: green">&ouml;:</span> Cue bid when Slam is at reach;
+*** <span style="color: orange">&real;:</span> Cue bid control/singleton/void.
+** <span style="color: green">&ouml;:</span> Cue bid new suit ww/ 14+HCP (Seeking Slam)
